@@ -4,6 +4,9 @@
 
 Para la actividad pastelería se requiere una pagina web que capture los datos de un cliente con un formulario, muestre los datos capturados en otro formulario para el admin, muestre información sobre, sabores, adornos, contacto y un logo.
 
+## **link a la página**
+https://jesustufin1o.github.io/pasteleria/
+
 ## **Página principal**
 
 En la página index, encontramos información general de los productos que ofrece la pastelería:
