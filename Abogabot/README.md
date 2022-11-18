@@ -56,7 +56,7 @@ Se utiliza la plantilla proporcionada en la pagina web https://miro.com/app/boar
 
 Se muestra el borrador del wireframe con los requerimientos de la practica.
 
-Se hizo uso de la plataforma MIRO
+Se hizo uso de la plataforma FIGMA
 
 ![Borrador Wireframe](./imagenes/wireframe.png)
 
