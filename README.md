@@ -7,12 +7,12 @@ Aqui subo las practicas de la mision FrontEnd.
 **_Toma de requerimientos_**
 
 En esta parte se usa los diferentes diseños para mostrar al cliente el prototipo y pueda hcaer cambios o modificaciones, es la fase donde se presentan las necesidades de la aplicación.
-- [Toma de requerimientos](./Abogabot/)
+- [Toma de requerimientos](./Abogabot/README.dm)
 
 **_HTML_**
 
 El HTML es el HyperText Markup Language y es el lenguaje estándar que se utiliza para estructurar las páginas web, ya que nos permite darle un esqueleto a nuestros sitios y organizar nuestra información de la manera adecuada.
-- [Practica HTML](./HTML/)
+- [Practica HTML](./HTML/README.dm)
 
 **_CSS_**
 
