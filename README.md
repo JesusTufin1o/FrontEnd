@@ -19,6 +19,7 @@ El HTML es el HyperText Markup Language y es el lenguaje estándar que se utiliz
 EEste lenguaje nos da la posibilidad de estilizar y de insertarle toda la parte de visual y estética a tu sitio como si fuera la piel de nuestra aplicación.
 
 Se utilizan clases y selectores para poder definir las propiedades y características de cada uno de los elementos que nosotros definamos en la aplicación web.
+- [Practica CSS](./CSS/README.md)
 
 
 **_JS_**
