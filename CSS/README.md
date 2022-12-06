@@ -9,5 +9,5 @@ Aqui mi actividad, lo mas parecido posible.
 
 https://jesustufin1o.github.io/Vacunacion/
 
-## **Esta es la imagen guia**
+## **Esta es la imagen guía**
 ![](./imagenes/imagenguia.png)
