@@ -9,5 +9,5 @@ Aqui mi actividad, lo mas parecido posible.
 
 https://jesustufin1o.github.io/pasteleria/
 
-##**Esta es la imagen guia
+## **Esta es la imagen guia**
 ![](./imagenes/imagenguia.png)
