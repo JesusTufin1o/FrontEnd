@@ -7,7 +7,7 @@ Para la actividad vacunación, es necesario replicar una imagen, tratar de hacer
 ## **link a la página**
 Aqui mi actividad, lo mas parecido posible.
 
-https://jesustufin1o.github.io/pasteleria/
+https://jesustufin1o.github.io/Vacunacion/
 
 ## **Esta es la imagen guia**
 ![](./imagenes/imagenguia.png)
