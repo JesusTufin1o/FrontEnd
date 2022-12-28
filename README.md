@@ -29,5 +29,5 @@ Es el cerebro de nuestra plataforma, una vez que nosotros utilizamos JS en el si
 
 Podemos considerar a JS como el sistema nervioso que controla toda nuestra aplicación web y la que manejará todos los músculos y huesos de nuestro sitio.
 
-- [Practica CSS](./JS/README.md)
+- [Practica JS](./JS/README.md)
 
